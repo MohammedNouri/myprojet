@@ -1,0 +1,28 @@
+Code de compte : 1 , Solde de compte : 1100.0 ,  Status : CREATED
+Information de votre Compte :
+Num d'operation :1 , Le montant verser :500.0 DH  , Date d'operationMon Oct 02 14:28:47 GMT 2023
+Num d'operation :2 , Le montant retirer :200.0 DH  , Date d'operationMon Oct 02 14:28:47 GMT 2023
+Num d'operation :7 , Le montant retirer :200.0 DH  , Date d'operationMon Oct 02 14:28:47 GMT 2023
+Total de versement :500.0 DH 
+Total de Retairait :400.0 DH  
+
+Code de compte : 2 , Solde de compte : 780.0 ,  Status : CREATED
+Information de votre Compte :
+Num d'operation :3 , Le montant verser :400.0 DH  , Date d'operationMon Oct 02 14:28:47 GMT 2023
+Num d'operation :4 , Le montant retirer :320.0 DH  , Date d'operationMon Oct 02 14:28:47 GMT 2023
+Num d'operation :8 , Le montant verser :200.0 DH  , Date d'operationMon Oct 02 14:28:47 GMT 2023
+Total de versement :600.0 DH 
+Total de Retairait :320.0 DH  
+
+Code de compte : 3 , Solde de compte : 550.0 ,  Status : CREATED
+Information de votre Compte :
+Num d'operation :5 , Le montant verser :800.0 DH  , Date d'operationMon Oct 02 14:28:47 GMT 2023
+Num d'operation :6 , Le montant retirer :750.0 DH  , Date d'operationMon Oct 02 14:28:47 GMT 2023
+Total de versement :800.0 DH 
+Total de Retairait :750.0 DH  
+
+Code de compte : 4 , Solde de compte : 500.0 ,  Status : CREATED
+Information de votre Compte :
+Total de versement :0.0 DH 
+Total de Retairait :0.0 DH  
+
